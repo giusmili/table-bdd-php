@@ -11,5 +11,5 @@ $_topTenLang = array(
      );
 
 ```
->Une fois le tableau terminé faites des test php pour voir si tout vas bien. 
+>Une fois le tableau terminé faites des tests php pour voir si tout vas bien. 
 En suite il faut intégrer les donnée dynamiquement dans le tableau html: Il va falloir recréer un fichier php avec la structure html de base et dynamiser l'affichage du tablea.
