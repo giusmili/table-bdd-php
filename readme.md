@@ -1,13 +1,13 @@
 # Créer un tableau php
->D'après ce que vous avez en html vous devez reconstituer un tableau de données en php
-Comme l'exemple ci-dessous:
+![cover](./asset/cover.PNG)
+>D'après ce que vous avez en html vous devez reconstituer un tableau de données en php. Pour parcourir les donnée et les afficher dans la structure html vous devriez vous servir d'une boucle **foreach**. Vous devez compter le nombre d'itérations et afficher l'index pour chaque ligne du tableau
 
 ```php
 $_topTenLang = array(
-            array("Python" => "Web & application"),
-            array("C++" => "Application"),
-            array("Node js" => "Application"),
-            array("PHP" => "Web & application")
+            [0]=>array("Python" => "Web & application"),
+            [1]=>array("C++" => "Application"),
+            [2]=>array("Node js" => "Application"),
+            [3]=>array("PHP" => "Web & application")
      );
 
 ```
