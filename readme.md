@@ -1,4 +1,4 @@
-# Créer un tableau php
+# Créer un tableau php 🧑‍💻
 ![cover](./asset/cover.PNG)
 >D'après ce que vous avez en html vous devez reconstituer un tableau de données en php. Pour parcourir les donnée et les afficher dans la structure html vous devriez vous servir d'une boucle **foreach**. Vous devez compter le nombre d'itérations et afficher l'index pour chaque ligne du tableau
 
